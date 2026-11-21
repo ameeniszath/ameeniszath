@@ -25,7 +25,7 @@ I design precision machines and improve manufacturing processes: making a grindi
 - **Programming (as an engineering tool):** Python (OpenCV, scikit-learn, YOLOv8, FastAPI, Streamlit), SQL
 
 ### 📈 Highlights
-- **Research Engineer intern, AMTDC (IIT Madras Research Park):** oil-film bearing design for CNC tables; cut table tilt by **28 %** and pad-layout calculation time from **4 min to instant**
+- **Research Engineer intern, AMTDC (IIT Madras Research Park):** oil-film bearing design for CNC tables; positioned the pockets so all four share the load equally (peak pocket load **−23 %** in the design case) and cut pad-layout calculation time from **4 min to instant**
 - **B.Tech, NIT Trichy (Production Engineering):** heat treatment of SLM-printed SS316L, raising yield strength by **34 %**
 - Taught physics to **150+ students** (JEE), producing **20+ JEE Advanced qualifiers**
 - ♟️ Chess: **Lichess 2327**, Chess.com 2122
