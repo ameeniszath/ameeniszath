@@ -32,4 +32,5 @@ I design precision machine systems and improve manufacturing processes: oil-film
 Chess: Lichess 2327 · Chess.com 2122
 
 ### Contact
-Open to opportunities and referrals in core mechanical engineering. Contact details are on my GitHub profile.
+Open to opportunities and referrals in core mechanical engineering.
+[LinkedIn](https://www.linkedin.com/in/ameeniszaths) · email on my GitHub profile
