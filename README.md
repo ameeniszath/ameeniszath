@@ -14,6 +14,7 @@ I design precision machines and improve manufacturing processes: making a grindi
 |---|---|---|
 | [**Hydrostatic Guideway Toolbox**](https://github.com/ameeniszath/hydrostatic-pad-positioning-toolbox) | Designs the oil-film (hydrostatic) support pads of a precision grinding-machine table: load sharing, pad placement and pad sizing over 27 load cases | Python · machine design · GD&T |
 | [**Automated Tool Offsetter**](https://github.com/ameeniszath/automated-tool-offsetter) | A camera-based tool presetter: measures CNC cutting-tool length, diameter and drill angle from a back-lit image and writes the Fanuc offsets. Full Fusion 360 design included | OpenCV · Python · Fusion 360 · CNC |
+| [**Milling Chatter Multi-Agent System**](https://github.com/ameeniszath/milling-chatter-multi-agent) | Four agents detect milling chatter from vibration (97 % accuracy), learn the stability lobe diagram and choose cutting speeds that give 9x the metal removal rate without chatter | FFT · scikit-learn · FastAPI · n8n |
 | [**PrintVision AI**](https://github.com/ameeniszath/printvision-ai) | Finds 3D-printing defects with a YOLOv8 model (accuracy raised 52 % on unseen photos) and suggests better print settings with Bayesian optimisation | YOLOv8 · Streamlit · scikit-learn |
 
 ### 🛠️ Toolbox
