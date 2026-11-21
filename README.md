@@ -1,34 +1,35 @@
-## Hi, I'm Ameen 👋
+## Ameen Iszath S
 
-**Mechanical engineer: M.Tech in Manufacturing Engineering at IIT Madras, B.Tech in Production Engineering at NIT Trichy.**
+**Mechanical Engineer · M.Tech in Manufacturing Engineering, IIT Madras (2027) · B.Tech in Production Engineering, NIT Trichy**
 
-I design precision machines and improve manufacturing processes: making a grinding-machine table float on an oil film, designing a machine that measures CNC cutting tools with a camera, finding the cutting conditions that stop a milling cutter from chattering, and tuning 3D-printing settings to remove defects. I use **CAD, simulation and Python** as tools to get those results.
+I design precision machine systems and improve manufacturing processes: oil-film (hydrostatic) guideways for grinding machines, a camera-based CNC tool presetter, chatter-free milling, and defect-free 3D printing. CAD, simulation and Python are my tools for getting measurable results.
 
-🎯 **Looking for full-time mechanical engineering roles: machine & product design, manufacturing / process engineering, and thermal engineering.**
+**Open to full-time roles from 2027** in machine & product design, manufacturing / process engineering and precision engineering, in machine tools, automotive, capital equipment and other core industries.
 
 ---
 
-### 🔧 Featured projects
+### Featured projects
 
-| Project | What it does | Tech |
+| Project | Result | Tools |
 |---|---|---|
-| [**Hydrostatic Guideway Toolbox**](https://github.com/ameeniszath/hydrostatic-pad-positioning-toolbox) | Designs the oil-film (hydrostatic) support pads of a precision grinding-machine table: load sharing, pad placement and pad sizing over 27 load cases | Python · machine design · GD&T |
-| [**Automated Tool Offsetter**](https://github.com/ameeniszath/automated-tool-offsetter) | A camera-based tool presetter: measures CNC cutting-tool length, diameter and drill angle from a back-lit image and writes the Fanuc offsets. Full Fusion 360 design included | OpenCV · Python · Fusion 360 · CNC |
-| [**Milling Chatter Multi-Agent System**](https://github.com/ameeniszath/milling-chatter-multi-agent) | Four agents detect milling chatter from vibration (97 % accuracy), learn the stability lobe diagram and choose cutting speeds that give 9x the metal removal rate without chatter | FFT · scikit-learn · FastAPI · n8n |
-| [**PrintVision AI**](https://github.com/ameeniszath/printvision-ai) | Finds 3D-printing defects with a YOLOv8 model (accuracy raised 52 % on unseen photos) and suggests better print settings with Bayesian optimisation | YOLOv8 · Streamlit · scikit-learn |
+| [**Hydrostatic Guideway Toolbox**](https://github.com/ameeniszath/hydrostatic-pad-positioning-toolbox) | Sizes the oil-film pockets of a V-flat grinding-machine guideway over 27 load cases (load-capacity factor of safety 1.67). Placing the pockets for equal load sharing cut the peak pocket load by 23 % in the design case. | Python · machine design |
+| [**Automated Tool Offsetter**](https://github.com/ameeniszath/automated-tool-offsetter) | Camera-based CNC tool presetter: measures tool length, diameter and point angle from a back-lit image and writes Fanuc G10 offsets. Full Fusion 360 machine design included. | OpenCV · Fusion 360 · CNC |
+| [**Milling Chatter Multi-Agent System**](https://github.com/ameeniszath/milling-chatter-multi-agent) | Detects chatter from vibration in 190 simulated test cuts (97 % accuracy, robust to sensor noise) and picks spindle speeds that give 9× the metal removal rate of a safe-depth baseline. | FFT · SVM · FastAPI · n8n |
+| [**PrintVision AI**](https://github.com/ameeniszath/printvision-ai) | 3D-print defect detection: YOLOv8 mAP50 raised from 0.464 to 0.705 on unseen photos; Bayesian optimisation suggests print settings with fewer defects. | YOLOv8 · scikit-learn · Streamlit |
 
-### 🛠️ Toolbox
-- **Mechanical design:** Fusion 360, SolidWorks, AutoCAD, GD&T, machine-tool design (guideways, ball-screw stages, hydrostatic bearings)
-- **Simulation:** ANSYS, COMSOL Multiphysics (structural, fluid, heat transfer), MATLAB / Simulink
-- **Manufacturing:** CNC machining & tool offsets (Fanuc), grinding & superfinishing, additive manufacturing (FDM, SLM), metrology, Design of Experiments, Lean
-- **Thermal & materials:** heat-pipe heat-transfer modelling, heat treatment of SLM SS316L
-- **Programming (as an engineering tool):** Python (OpenCV, scikit-learn, YOLOv8, FastAPI, Streamlit), SQL
+### Experience
+- **Research Intern, AMTDC, IIT Madras Research Park** (May–Jul 2026): hydrostatic bearing design for a CNC machine table, pocket-layout design automated in Python (4 min → under 1 s), Design of Experiments on superfinishing parameters.
+- **Physics Subject Expert, Tamil Nadu Model Schools** (Jun 2024 – Jul 2025): full-time teaching; trained 150+ students in two intensive exam camps.
+- **Product Development Intern, NIT Trichy** (Jun–Aug 2023): designed, 3D-printed and sold 25+ products; modelled heat-pipe heat transfer in COMSOL.
 
-### 📈 Highlights
-- **Research Engineer intern, AMTDC (IIT Madras Research Park):** oil-film bearing design for CNC tables; positioned the pockets so all four share the load equally (peak pocket load **−23 %** in the design case) and cut pad-layout calculation time from **4 min to instant**
-- **B.Tech, NIT Trichy (Production Engineering):** heat treatment of SLM-printed SS316L, raising yield strength by **34 %**
-- Taught physics to **150+ students** (JEE), producing **20+ JEE Advanced qualifiers**
-- ♟️ Chess: **Lichess 2327**, Chess.com 2122
+### Skills
+- **Design & CAD:** SolidWorks, Fusion 360, AutoCAD, GD&T, mechanism design
+- **Simulation:** COMSOL Multiphysics (FEA, fluid-structure, heat transfer); familiar with ANSYS and Abaqus
+- **Manufacturing:** CNC (Fanuc G-code), machining studies (Kistler dynamometer), Design of Experiments (Minitab), metrology, additive manufacturing
+- **Programming:** Python (NumPy, SciPy, OpenCV, scikit-learn), MATLAB
 
-### 📫 Reach me
-Open to **mechanical engineering** opportunities and referrals: **design, manufacturing and thermal**.
+### Beyond work
+Chess: Lichess 2327 · Chess.com 2122
+
+### Contact
+Open to opportunities and referrals in core mechanical engineering. Contact details are on my GitHub profile.
